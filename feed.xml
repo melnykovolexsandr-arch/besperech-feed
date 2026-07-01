@@ -3,6 +3,7 @@
 <channel>
   <title>Besperech</title>
   <link>https://besperech.com</link>
+  
   <item>
     <g:id>129868788872</g:id>
     <g:title><![CDATA[Корсет з чорного оксамиту]]></g:title>
@@ -24,5 +25,31 @@
     <g:age_group>Adult</g:age_group>
     <g:color>Black</g:color>
   </item>
+
+  <item>
+    <g:id>356263050422</g:id>
+    <g:title><![CDATA[Корсет з червоного оксамиту]]></g:title>
+    <g:description><![CDATA[Втілення королівської розкоші в глибокому червоному оксамиті. Цей корсет вирізняється унікальною конструкцією з шнурівкою як спереду, так і ззаду, що дозволяє досягти ідеальної посадки та акцентувати на лініях фігури. 
+
+Матеріали: Преміальний червоний оксамит із внутрішнім шаром з натуральної бавовни для максимального комфорту.
+
+Особливість конструкції: Подвійна система шнурування забезпечує додаткову гнучкість у регулюванні рівня утяжки.
+
+Моделювання: 30 кісточок надійно тримають форму, створюючи виразний силует.
+
+Ми створюємо кожен корсет за вашими замірами, щоб забезпечити бездоганну посадку.]]></g:description>
+    <g:link>https://besperech.com/bestsellers/tproduct/356263050422-korset-z-chervonogo-oksamitu</g:link>
+    <g:image_link>https://optim.tildacdn.one/stor3834-3338-4364-a661-653034313436/-/format/webp/b822597718fc894ba082bafcf158ced5.webp</g:image_link>
+    <g:condition>new</g:condition>
+    <g:availability>in stock</g:availability>
+    <g:price>4500.00 UAH</g:price>
+    <g:google_product_category>Clothing</g:google_product_category>
+    <g:brand>Besperech</g:brand>
+    <g:gender>Female</g:gender>
+    <g:age_group>Adult</g:age_group>
+    <g:color>Red</g:color>
+  </item>
+
+  
 </channel>
 </rss>
